@@ -1,0 +1,11 @@
+{
+    "name": "PROGNOSIS Module Docker Build",
+    "description": "PROGNOSIS Module Docker Build workflow.",
+    "iconName": "docker",
+    "categories": [
+        "Docker"
+    ],
+    "filePatterns": [
+        "^Dockerfile"
+    ]
+}
